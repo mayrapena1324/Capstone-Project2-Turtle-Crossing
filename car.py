@@ -1,4 +1,3 @@
-#TODO: get a new car to generate if it is too close to another car
 COLORS = ["red", "orange", "yellow", "green", "blue", "purple", "pink"]
 SPEED = 10
 
