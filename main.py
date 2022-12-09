@@ -4,7 +4,6 @@ from score import Score
 from car import Car
 import time
 
-# Dr. Yu has a car_manager file vs a car file and manages list of cars in there. 
 NUMBER_OF_CARS = 15
 
 screen = Screen()
